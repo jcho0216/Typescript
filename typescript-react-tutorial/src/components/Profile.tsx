@@ -6,9 +6,7 @@ interface Props {
 }
 
 
-class Profile extends React.Component<Props> {
-    render() {
-        const { name, job } = this.props;
+const Profile = ({name, job} : Props) => {
         return (
             <div>
                 <h1>프로필</h1>
@@ -22,7 +20,6 @@ class Profile extends React.Component<Props> {
                 </div>
             </div>
         )
-    }
 }
 
 export default Profile;
