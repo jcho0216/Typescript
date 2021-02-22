@@ -1,1 +1,1 @@
-Typescript를 공부하면서 정리한 코드들
+Typescript공부 및 프로젝트
