@@ -1,3 +1,4 @@
+//투두리스트 컴포넌트
 import * as React from 'react';
 import TodoItem from './TodoItem';
 

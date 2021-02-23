@@ -1,3 +1,4 @@
+//프로필 컴포넌트
 import * as React from 'react';
 
 interface Props {

@@ -1,3 +1,4 @@
+//카운터 컴포넌트
 import * as React from 'react';
 
 interface Props {
