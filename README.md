@@ -1,1 +1,1 @@
-Typescript Projects
+Typescript
